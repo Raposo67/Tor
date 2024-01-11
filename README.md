@@ -3,7 +3,7 @@
 
 ## Comandos | Instalação
 ```bash
-git clone https://github/Raposo67/Tor.git
+git clone https://github.com/Raposo67/Tor.git
 ```
 ```bash
 sudo unzip tor-browser.zip
